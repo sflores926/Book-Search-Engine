@@ -46,7 +46,7 @@ Sign-up form
 When you enter a book name in the search bar you are shown a multitude of books with that name in it.
 
 ![Demonstration of saved books.](./Assets/savedbooks.png)
-Demomstration of saved books page when logged in to your account.
+Demomstration of saved books page when logged into your account.
 
 
 ## Links
