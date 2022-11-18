@@ -36,7 +36,18 @@ SO THAT I can keep a list of books to purchase
 
 The following screenshots demonstrates the application functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+![Demonstration of login functionality.](./Assets/login.png)
+Login form 
+
+![Demonstration of sign-up functionality.](./Assets/signup.png)
+Sign-up form
+
+![Demonstration of searched books.](./Assets/searchbooks.png)
+When you enter a book name in the search bar you are shown a multitude of books with that name in it.
+
+![Demonstration of saved books.](./Assets/savedbooks.png)
+Demomstration of saved books page when logged in to your account.
+
 
 ## Links
 
