@@ -24,7 +24,7 @@ const SavedBooks = () => {
 
     try {
       await removeBook({
-        variables:{ bookId: bookId},
+        variables:{ bookId},
       });
 
       // setUserData(updatedUser);
