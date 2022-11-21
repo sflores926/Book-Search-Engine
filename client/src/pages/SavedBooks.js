@@ -21,12 +21,12 @@ const SavedBooks = () => {
     if (!token) {
       return false;
     }
-
+console.log(bookId)
     try {
-      await removeBook({
-        variables:{ bookId},
+      let data = await removeBook({
+        variables:{ bookId: bookId},
       });
-
+console.log(data)
       // setUserData(updatedUser);
       // upon success, remove book's id from localStorage
       removeBookId(bookId);
